@@ -1,6 +1,6 @@
 [project]
 name = "rolling-window-utils"
-version = "0.1.0"
+version = "0.1.1"
 description = "Rolling window over a number stream with O(1) mean and O(n) peak/trough"
 requires-python = ">=3.10"
 dependencies = []
